@@ -15,6 +15,7 @@ Car Price Prediction with RFR - Random Forest Regressor and XG-Boost Regressor i
 9. Running Linear Regression
 10. Trying the recursive feature elimination process
 11. Trying Powerful models
-10.1. Random Forest
-10.2. XG Boost Regressor
-12. Exporting the data in a CSV
+
+  10.1. Random Forest
+  10.2. XG Boost Regressor
+13. Exporting the data in a CSV
